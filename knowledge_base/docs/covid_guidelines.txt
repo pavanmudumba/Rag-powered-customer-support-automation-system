@@ -1,0 +1,13 @@
+COVID-19 is an infectious disease caused by the SARS-CoV-2 virus.
+It spreads primarily through respiratory droplets when an infected person coughs, sneezes, or talks.
+
+Common symptoms of COVID-19 include fever, cough, fatigue, loss of taste or smell, sore throat, and shortness of breath.
+Some individuals may experience severe illness, particularly older adults and those with underlying medical conditions.
+
+Preventive measures include wearing masks, maintaining physical distance, practicing hand hygiene, and avoiding crowded places.
+Vaccination significantly reduces the risk of severe illness and hospitalization.
+
+People experiencing symptoms should isolate themselves and seek medical advice.
+Testing is recommended to confirm infection and prevent further spread.
+
+Public health guidelines emphasize vaccination, early detection, and community awareness to control COVID-19 transmission.

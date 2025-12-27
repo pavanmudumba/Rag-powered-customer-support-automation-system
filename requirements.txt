@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+hnswlib
+numpy
+pypdf
+python-docx
+tqdm
+requests
+pydantic

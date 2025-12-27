@@ -1,0 +1,7 @@
+If you face issues logging into your account, ensure that your internet connection is stable. 
+Clear your browser cache and try again.
+
+For mobile app issues, update the app from the Play Store or App Store. 
+If the problem continues, try reinstalling the app.
+
+When facing payment failures, verify that your card has sufficient balance and is enabled for online transactions.

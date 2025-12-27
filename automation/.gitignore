@@ -1,0 +1,20 @@
+# 🔐 Secrets
+automation/token.json
+automation/credentials.json
+.env
+
+# 🧠 Vector DB
+chroma_db/
+
+# 📨 Runtime artifacts
+drafts/
+logs/
+outbox/
+
+# 🧪 Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 📦 Models / indexes
+*.pkl

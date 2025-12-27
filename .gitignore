@@ -1,0 +1,34 @@
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+
+# =========================
+# Secrets & Credentials
+# =========================
+automation/credentials.json
+automation/token.json
+.env
+
+# =========================
+# Vector DB / Runtime Data
+# =========================
+chroma_db/
+drafts/
+logs/
+outbox/
+
+# =========================
+# Python junk
+# =========================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# =========================
+# ML artifacts
+# =========================
+*.pkl
+*.bin
+*.sqlite3

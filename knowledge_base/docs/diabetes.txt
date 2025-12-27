@@ -1,0 +1,14 @@
+Diabetes is a chronic metabolic disease characterized by elevated blood glucose levels.
+It occurs when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.
+
+Common symptoms of diabetes include frequent urination, excessive thirst, increased hunger, unexplained weight loss, fatigue, blurred vision, and slow healing of wounds.
+Some individuals may also experience tingling or numbness in hands and feet.
+
+There are two major types of diabetes: Type 1 diabetes and Type 2 diabetes.
+Type 1 diabetes is an autoimmune condition in which the immune system attacks insulin-producing cells.
+Type 2 diabetes is associated with insulin resistance and is often linked to lifestyle factors such as obesity and physical inactivity.
+
+Management of diabetes includes monitoring blood glucose levels, following a balanced diet, engaging in regular physical activity, and taking medications such as insulin or oral hypoglycemic drugs.
+Early diagnosis and proper management help prevent complications like heart disease, kidney failure, nerve damage, and vision loss.
+
+Patients with diabetes are advised to limit sugar intake, maintain a healthy weight, and follow medical guidance regularly.

@@ -1,0 +1,9 @@
+{
+  "ticket_id": "TCK-777",
+  "user_email": "pk3255207@gmail.com",
+  "subject": "Password reset issue",
+  "answer": "Hello,\n\nHere\u2019s the information related to your request:\n\n\u2022 To reset your password, go to the login page and click on the \"Forgot Password\" link. You will receive an email with a reset link. Follow the instructions in the email to set a new password.\n\u2022 The reset link remains valid for 30 minutes from the time it is issued.\n\u2022 Check your spam folder and ensure you are using the correct registered email address. If the issue persists, contact customer support.\n\u2022 Yes. You can update your email address under Account Settings \u2192 Personal Information.\n\nIf this does not resolve your issue, the ticket will be escalated.\n\nRegards,\nSupport Team",
+  "confidence": 0.954,
+  "action": "PENDING_APPROVAL",
+  "timestamp": "2025-12-16T06:40:48.908469"
+}
