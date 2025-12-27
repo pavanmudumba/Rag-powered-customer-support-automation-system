@@ -1,58 +1,37 @@
-An end-to-end Retrieval-Augmented Generation (RAG) based customer support automation system that ingests domain knowledge, retrieves relevant context using vector search (ChromaDB / sklearn), generates intelligent responses, and automates Gmail draft creation and sending.
+# 🚀 RAG-Powered Customer Support Automation System
 
-This system is designed to reduce manual customer support effort by automatically understanding user queries, fetching accurate information from a knowledge base, and responding via email.
+> An end-to-end **Retrieval-Augmented Generation (RAG)** based customer support automation platform that intelligently answers customer queries using a knowledge base and automates Gmail responses.
 
-🔍 Key Features
+---
 
-Knowledge Base Ingestion
+## 📌 Overview
 
-Text documents are chunked and embedded
+This project automates customer support by combining **semantic search** with **context-aware response generation**.  
+User queries are matched against a domain knowledge base using vector embeddings, and accurate responses are generated and sent via **Gmail automation**.
 
-Stored in ChromaDB (persistent vector store)
+---
 
-Context-Aware Retrieval
+## ✨ Key Features
 
-Semantic search using embeddings
+- 🔍 **Semantic Knowledge Retrieval (RAG)**
+- 🧠 **Context-Aware Response Generation**
+- 📚 **ChromaDB Persistent Vector Store**
+- 📩 **Automated Gmail Draft Creation & Sending**
+- ⚡ **FastAPI Backend with Swagger UI**
+- 🧩 **Multiple Indexing Options (Chroma / sklearn / FAISS)**
 
-Top-K relevant chunks retrieved per query
+---
 
-RAG Pipeline
+## 🏗️ System Architecture
 
-Retrieved context injected into response generation
-
-Improves factual accuracy and relevance
-
-Email Automation
-
-Automatically creates Gmail drafts
-
-Optional email sending support
-
-Gmail OAuth2 integration
-
-Multiple Indexing Options
-
-ChromaDB
-
-sklearn-based vector indexing
-
-FAISS support (optional)
-
-FastAPI Backend
-
-REST APIs for processing support tickets
-
-Swagger UI for testing
-
-🏗️ Project Architecture
 User Query
-   ↓
+↓
 FastAPI Endpoint
-   ↓
+↓
 Vector Retrieval (ChromaDB / sklearn)
-   ↓
+↓
 Context Injection (RAG)
-   ↓
+↓
 Response Generation
-   ↓
+↓
 Gmail Draft / Email Send
